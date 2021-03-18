@@ -1,9 +1,17 @@
-# gcd and lcm calculator
-Look at how to calculate GCD and LCM in JAVA.
+# GCD and LCM Calculator
+This calculator quickly computes Greatest Common Divisor (GCD) and Least Common Multiple (LCM) for given set of numbers.
 
-## output
-**Enter numbers:** 12,6,18
+## Using
+The calculator is programmed in Java. You have to have Java compiler. If not, you may use online compiler. Also the calculator uses `java.util` package to get user input.
 
-**GCD:** 6 **LCM:** 36
+**Sample, e.g.:**
 
-> The numbers must be separated by commas.
+_Enter numbers:_ 12,6,18 (The numbers must be separated by comma.)
+
+_Output:_
+
+GCD: 6 LCM: 36
+
+**Screenshot**
+
+![output](output.png)
